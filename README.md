@@ -1,8 +1,3 @@
 # Amostragem
 
-1. Amostragem Aleatória Simples
-2. Amostragem Estratificada
-3. Amostragem por Conglomerados
-4. Amostragem Sistemática
-5. Cálculo do Tamanho Amostral
-6. Amostragem Complexa
+Esse repositório contém a fonte do livro Amostragem. O livro foi construído usando [Quarto](https://quarto.org/).
